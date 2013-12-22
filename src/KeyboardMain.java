@@ -6,7 +6,7 @@ import fr.umlv.zen3.Application;
 import fr.umlv.zen3.KeyboardEvent;
 
 public class KeyboardMain {
-  public static void main(String[] args) {
+ /* public static void main(String[] args) {
     int WIDTH = 800;
     int HEIGHT = 600;
 
@@ -29,5 +29,5 @@ public class KeyboardMain {
         });
       }
     });
-  }
+  }*/
 }
